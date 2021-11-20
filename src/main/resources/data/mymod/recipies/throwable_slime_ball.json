@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W  ",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "mymod:throwable_slime_ball",
+    "count": 4
+  }
+}
